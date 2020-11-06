@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Hello</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css"/>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <img src="creative10.jpg" style="height: 100%; width: 100%;" class="img-fluid rounded">
+            </div>
+            <div class="col-sm-3">
+                <img src="creative4.jpg" style="height: 33.33%; width: 100%;" class="img-fluid rounded" />
+                <img src="creative.jpg" style="height: 33.33%; width: 100%;" class="img-fluid rounded" />
+                <img src="creative7.jpg" style="height: 33.33%; width: 100%;" class="img-fluid rounded" />
+            </div>
+            <div class="col-sm-3">
+                <img src="creative11.jpg" style="height: 80%; width: 100%;" class="img-fluid rounded" />
+                <img src="creative12.jpg" style="height: 20%; width: 100%;" class="img-fluid rounded" />
+            </div>
+        </div>
+    </div>
+</body>
+</html>
